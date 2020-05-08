@@ -16,6 +16,7 @@ p{
     padding: 5px;
 }
 
+/* For small devices*/
 @media (min-width: 768px) {
     h1{
         padding: 0.5em 1.8em;
@@ -33,6 +34,7 @@ p{
     }
 }
 
+/* For medium devices */
 @media (min-width: 992px) {
     h1{
         padding: 0.5em 3.75em;
@@ -50,6 +52,7 @@ p{
     }
 }
 
+/* For larger devices */
 @media (min-width: 1440px) {
     h1{
         padding: 0.5em 4.5em;
